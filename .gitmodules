@@ -1,0 +1,9 @@
+[submodule "sistemas-operativos-ejer03"]
+	path = sistemas-operativos-ejer03
+	url = https://github.com/rosvjames/sistemas-operativos-ejer03
+[submodule "Simulador-Scheduling"]
+	path = Simulador-Scheduling
+	url = https://github.com/MantiMantilloso/Simulador-Scheduling
+[submodule "deber2_SO"]
+	path = deber2_SO
+	url = https://github.com/Jd112003/deber2_SO
