@@ -6,9 +6,9 @@
 
 El proyecto está organizado en las siguientes carpetas principales:
 
-- `deber2_SO/`: Implementaciones del clásico problema de la cena de los filósofos.
-- `Simulador-Scheduling/`: Un simulador de algoritmos de planificación de CPU.
-- `sistemas-operativos-ejer03/`: Implementaciones del problema productor-consumidor.
+- [deber2_SO/](deber2_SO/): Implementaciones del clásico problema de la cena de los filósofos.
+- [Simulador-Scheduling/](Simulador-Scheduling/): Un simulador de algoritmos de planificación de CPU.
+- [sistemas-operativos-ejer03/](sistemas-operativos-ejer03/): Implementaciones del problema productor-consumidor.
 
 A continuación se detalla el contenido de cada sección.
 
@@ -19,6 +19,8 @@ Para más detalles específicos de cada subproyecto, consulta los READMEs intern
 - [Simulador-Scheduling/experiments_report.md](Simulador-Scheduling/experiments_report.md)
 - [deber2_SO/README.md](deber2_SO/README.md)
 - [sistemas-operativos-ejer03/README.md](sistemas-operativos-ejer03/README.md)
+
+Nota sobre enlaces a carpetas en GitHub: si necesitas enlazar a una carpeta, usa un enlace que termine con `/` (por ejemplo, `Simulador-Scheduling/`). GitHub resolverá correctamente a la vista de directorio (tree) y evitarás URLs del tipo `blob/...` que dan 404 para carpetas.
 
 ### `deber2_SO` - La Cena de los Filósofos
 
